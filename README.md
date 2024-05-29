@@ -47,7 +47,7 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://[www.linkedin.com/in/gopi-chakradhar-0a65b32b2](https://www.linkedin.com/in/gopi-chakradhar-46aa06200)"/>
+  <a href="https://www.linkedin.com/in/gopi-chakradhar-0a65b32b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pandug771@gmail.com">
