@@ -6,15 +6,6 @@
 
 💻 I’m passionate about learning new technologies and building cool projects. When I’m not coding, you might find me debugging my life decisions or dreaming about a world where `console.log()` solves all problems!
 
-
-
-🌱 Currently mastering the art of balancing semicolons and caffeine. Let's code and make the world a better place, one line at a time# Hi there, I'm Gopi Chakradhar 👋
-
-## About Me
-🎓 I'm a student at IIITDM Kurnool, currently in my final year in the CSE program, expected to graduate in 2025 
-
-💻 I’m passionate about learning new technologies and building cool projects. When I’m not coding, you might find me debugging my life decisions or dreaming about a world where `console.log()` solves all problems!
-
 🌱 Currently mastering the art of balancing semicolons and caffeine. Let's code and make the world a better place, one line at a time!
 
 ## Skills
