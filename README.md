@@ -1,5 +1,5 @@
 # Hi there, I'm Gopi Chakradhar 👋
-🌐 Check out my portfolio: [gopi chakradhar](https://gopi-chakradhar.vercel.app/)
+🌐 Check out my portfolio: [gopichakradhar.me](https://gopichakradhar.me/)
 
 ## About Me
 🎓 I'm a student at IIITDM Kurnool, currently in my final year in the CSE program, expected to graduate in 2025 
